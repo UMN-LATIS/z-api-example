@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Testing
+/coverage
+
+# Build output
+/build
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# track node version
+!.tool-versions
+
+# Editor and IDE files
+.vscode/
